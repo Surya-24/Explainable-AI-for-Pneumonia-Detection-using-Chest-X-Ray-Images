@@ -195,5 +195,5 @@ model, gradcam_explainer, lime_explainer, test_loader = run_pipeline()
 
 ---
 
-**Authors:** Sai Surya Mada, Thota Bhuvana Chandra, Rachitha Chandra Bhanu
+**Author:** Sai Surya Mada
 
